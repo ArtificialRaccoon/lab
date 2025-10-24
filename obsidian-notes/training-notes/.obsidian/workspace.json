@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VIM Controls.md",
+                "file": "Configure Ubuntu Host.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VIM Controls"
+              "title": "Configure Ubuntu Host"
             }
           }
         ]
@@ -171,13 +171,14 @@
   },
   "active": "b1cf730a1bc72bec",
   "lastOpenFiles": [
-    "VIM Config.md",
+    "Kubernetes Deployments.md",
     "Kubernetes commands.md",
     "Kubernetes Lessons.md",
+    "VIM Controls.md",
+    "VIM Config.md",
     "Configure Ubuntu Host.md",
     "Rancher Desktop.md",
     "BASH Config.md",
-    "VIM Controls.md",
     "Welcome.md",
     "create a link.md"
   ]

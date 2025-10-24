@@ -4,6 +4,7 @@
 [[VIM Config]]
 [[VIM Controls]]
 [[Kubernetes commands]]
+[[Kubernetes Deployments]]
 
 A pod is a collection of containers.  Describes the networking and storage.
 
